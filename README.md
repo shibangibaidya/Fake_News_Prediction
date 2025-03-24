@@ -11,7 +11,6 @@ This project involves building a machine learning model to classify news article
    - Text preprocessing steps included:
      - Converting text to lowercase for uniformity.
      - Removing stopwords using NLTK's `stopwords` corpus.
-     - Tokenization of the text data using `word_tokenize`.
      - Applied stemming using the Porter Stemmer to reduce words to their base forms.
 
 ### 2. **Feature Extraction**:
